@@ -37,4 +37,7 @@ def register(request):
 
 
 def index(request):
-    return render(request, 'users/index.html')
+    if request.user.is_authenticated:
+        return render(request, 'index.html')
+    else:
+        return render(request, 'users/welcome.html')
