@@ -6,8 +6,14 @@
 - Python == 3.6.1 
 - Django == 2.1.3 
 - pytz==2018.7  
+## 截图 
+### 图片1 
 ![图片1](https://github.com/gyw040518/django_auth/blob/master/screenshots/index.png) 
+### 图片2  
 ![图片2](https://github.com/gyw040518/django_auth/blob/master/screenshots/login.png) 
+### 图片3 
 ![图片3](https://github.com/gyw040518/django_auth/blob/master/screenshots/login_done.png) 
+### 图片4  
 ![图片4](https://github.com/gyw040518/django_auth/blob/master/screenshots/psw_reset.png) 
+### 图片5 
 ![图片5](https://github.com/gyw040518/django_auth/blob/master/screenshots/register.png) 
